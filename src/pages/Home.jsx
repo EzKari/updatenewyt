@@ -97,14 +97,17 @@ export default function App() {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 cursor-pointer">
               {/* Video Card */}
               <div className="flex flex-col cursor-pointer">
+                
                 <img
-                  src="src/assets/image/thumbnail/I Gave $500,000 To Random People - MrBeast.jpg"
+                  src="public/image/thumbnail/I Gave $500,000 To Random People - MrBeast.jpg"
                   className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg"
                   alt="Video thumbnail"
+                  
                 />
+                
                 <div className="flex items-start mt-2">
                   <img
-                    src="src/assets/image/logo/mrbeast.jpg"
+                    src="public/image/logo/mrbeast.jpg"
                     className="w-10 h-10 rounded-full object-cover"
                     alt="MrBeast Logo"
                   />
@@ -120,10 +123,10 @@ export default function App() {
               </div>
 
               <div className="flex flex-col">
-                <img src="src/assets/image/thumbnail/Minecraft But I Can't Break Blocks - LazarBeam.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
+                <img src="public/image/thumbnail/Minecraft But I Can't Break Blocks - LazarBeam.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
                 <div className="flex items-start mt-2">
                   <img
-                    src="src/assets/image/logo/lazarbeam.jpg"
+                    src="public/image/logo/lazarbeam.jpg"
                     className="w-10 h-10 rounded-full object-cover"
                     alt="LazarBeam Logo"
                   />
@@ -135,10 +138,10 @@ export default function App() {
               </div>
 
               <div className="flex flex-col">
-                <img src="src/assets/image/thumbnail/Sidemen Try Not To Laugh Challenge.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
+                <img src="public/image/thumbnail/Sidemen Try Not To Laugh Challenge.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
                 <div className="flex items-start mt-2">
                   <img
-                    src="src/assets/image/logo/sidemen.png"
+                    src="public/image/logo/sidemen.png"
                     className="w-10 h-10 rounded-full object-cover"
                     alt="Sidemen Logo"
                   />
@@ -150,10 +153,10 @@ export default function App() {
               </div>
 
               <div className="flex flex-col">
-                <img src="src/assets/image/thumbnail/Cocomelon Nursery Rhymes - Wheels on the Bus.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
+                <img src="public/image/thumbnail/Cocomelon Nursery Rhymes - Wheels on the Bus.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
                 <div className="flex items-start mt-2">
                   <img
-                    src="src/assets/image/logo/cocomelon.jpg"
+                    src="public/image/logo/cocomelon.jpg"
                     className="w-10 h-10 rounded-full object-cover"
                     alt="Cocomelon Logo"
                   />
@@ -165,10 +168,10 @@ export default function App() {
               </div>
 
               <div className="flex flex-col">
-                <img src="src/assets/image/thumbnail/I Bought Everything In A Store - MrBeast.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
+                <img src="public/image/thumbnail/I Bought Everything In A Store - MrBeast.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
                 <div className="flex items-start mt-2">
                   <img
-                    src="src/assets/image/logo/mrbeast.jpg"
+                    src="public/image/logo/mrbeast.jpg"
                     className="w-10 h-10 rounded-full object-cover"
                     alt="MrBeast Logo"
                   />
@@ -181,10 +184,10 @@ export default function App() {
               </div>
 
               <div className="flex flex-col">
-                <img src="src/assets/image/thumbnail/Fortnite Funny Moments - LazarBeam.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
+                <img src="public/image/thumbnail/Fortnite Funny Moments - LazarBeam.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
                 <div className="flex items-start mt-2">
                   <img
-                    src="src/assets/image/logo/lazarbeam.jpg"
+                    src="public/image/logo/lazarbeam.jpg"
                     className="w-10 h-10 rounded-full object-cover"
                     alt="LazarBeam Logo"
                   />
@@ -196,10 +199,10 @@ export default function App() {
               </div>
 
               <div className="flex flex-col">
-                <img src="src/assets/image/thumbnail/Sidemen Challenge - Last to Leave Wins.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
+                <img src="public/image/thumbnail/Sidemen Challenge - Last to Leave Wins.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
                 <div className="flex items-start mt-2">
                   <img
-                    src="src/assets/image/logo/sidemen.png"
+                    src="public/image/logo/sidemen.png"
                     className="w-10 h-10 rounded-full object-cover"
                     alt="Sidemen Logo"
                   />
@@ -211,10 +214,10 @@ export default function App() {
               </div>
 
               <div className="flex flex-col">
-                <img src="src/assets/image/thumbnail/Cocomelon ABC Songs - Learn Alphabet.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
+                <img src="public/image/thumbnail/Cocomelon ABC Songs - Learn Alphabet.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
                 <div className="flex items-start mt-2">
                   <img
-                    src="src/assets/image/logo/cocomelon.jpg"
+                    src="public/image/logo/cocomelon.jpg"
                     className="w-10 h-10 rounded-full object-cover"
                     alt="Cocomelon Logo"
                   />
@@ -226,10 +229,10 @@ export default function App() {
               </div>
 
               <div className="flex flex-col">
-                <img src="src/assets/image/thumbnail/lastone.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
+                <img src="public/image/thumbnail/lastone.jpg" className="w-full h-auto sm:h-48 md:h-56 lg:h-64 object-cover rounded-lg" alt="Video thumbnail" />
                 <div className="flex items-start mt-2">
                   <img
-                    src="src/assets/image/logo/lazarbeam.jpg"
+                    src="public/image/logo/lazarbeam.jpg"
                     className="w-10 h-10 rounded-full object-cover"
                     alt="LazarBeam Logo"
                   />
